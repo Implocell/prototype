@@ -1,0 +1,8 @@
+{
+    "react": {
+        "rootPath": "./frontend/src"
+    },
+    "node": {
+        "rootPath": "./backend/src"
+    }
+}
